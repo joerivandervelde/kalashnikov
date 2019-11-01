@@ -1,6 +1,7 @@
 # Kalashnikov: the card game
 A Java implementation of the card game 'Kalashnikov' made by Life of Boris. 
-Check it out at: https://www.youtube.com/watch?v=IiRk-yGfAjc.
+Check it out at: https://www.youtube.com/watch?v=IiRk-yGfAjc. Comments/feedback
+may be sent to joeriv [at] gmail.com.
 
 ### In a nutshell
 Players take 
