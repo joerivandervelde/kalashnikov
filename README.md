@@ -46,7 +46,7 @@ What is the effect of the golden gun damage on win chance? This depends on
  the likelihood to wait for the golden gun. The higher this likelihood, the 
  more gun damage matter, as could be expected. However, even an overpowered 
  gun does not seem to provide an advantage over a player that shoots 
- immediately upon obtaining a normal gun. So default damage of 8 is fine.
+ immediately upon obtaining a normal gun. So default damage of 8 is fine. Note: this analysis plays against default AI 'tough' opponents, explaining the < 50% win chance.
 
 ![BetterGoldenGun](https://raw.githubusercontent.com/joerivandervelde/kalashnikov/master/analysis/BetterGoldenGun/BetterGoldenGun.png "BetterGoldenGun")
 
