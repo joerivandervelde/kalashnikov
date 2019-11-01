@@ -32,7 +32,7 @@ If every game starts with the same player, that player has a slight increased
  position to keep things fair. This type of bias increases with the number of
   players invited to the series.
 
-![WinBiasVsNrOfPlayers](https://raw.githubusercontent.com/joerivandervelde/kalashnikov/master/analysis/NrOfGamesVsNrOfPlayers/NrOfGamesVsNrOfPlayers.png "WinBiasVsNrOfPlayers")
+![WinBiasVsNrOfPlayers](https://raw.githubusercontent.com/joerivandervelde/kalashnikov/master/analysis/WinBiasVsNrOfPlayers/WinBiasVsNrOfPlayers.png "WinBiasVsNrOfPlayers")
 
 ### Golden strategy worth it?
 If you are very close to building golden gun, then surely go for it! However,
