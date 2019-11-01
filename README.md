@@ -24,9 +24,7 @@ The game is most suitable for 2-4 players. By adding more
 players, the number of games that must be played in order to reach a series 
 winner seems to increase logarithmically.
 
-![NrOfGamesVsNrOfPlayers](https://raw.githubusercontent
-.com/joerivandervelde/kalashnikov/analysis/NrOfGamesVsNrOfPlayers
-/NrOfGamesVsNrOfPlayers.png "NrOfGamesVsNrOfPlayers")
+![NrOfGamesVsNrOfPlayers](https://raw.githubusercontent.com/joerivandervelde/kalashnikov/master/analysis/NrOfGamesVsNrOfPlayers/NrOfGamesVsNrOfPlayers.png "NrOfGamesVsNrOfPlayers")
 
 #### Is there win bias?
 If every game starts with the same player, that player has a slight increased
@@ -34,18 +32,14 @@ If every game starts with the same player, that player has a slight increased
  position to keep things fair. This type of bias increases with the number of
   players invited to the series.
 
-![WinBiasVsNrOfPlayers](https://raw.githubusercontent
-.com/joerivandervelde/kalashnikov/analysis/WinBiasVsNrOfPlayers
-/WinBiasVsNrOfPlayers.png "WinBiasVsNrOfPlayers")
+![WinBiasVsNrOfPlayers](https://raw.githubusercontent.com/joerivandervelde/kalashnikov/analysis/WinBiasVsNrOfPlayers/WinBiasVsNrOfPlayers.png "WinBiasVsNrOfPlayers")
 
 #### Golden strategy worth it?
 If you are very close to building golden gun, then surely go for it! However,
  it would seem that deliberately waiting for the golden gun as a general 
  strategy for any game decreases your chances of winning.
 
-![WaitForGoldenGun](https://raw.githubusercontent
-.com/joerivandervelde/kalashnikov/analysis/WinChanceOfRandomAIs
-/WaitForGoldenGun.png "WaitForGoldenGun")
+![WaitForGoldenGun](https://raw.githubusercontent.com/joerivandervelde/kalashnikov/analysis/WinChanceOfRandomAIs/WaitForGoldenGun.png "WaitForGoldenGun")
 
 #### More golden damage?
 What is the effect of the golden gun damage on win chance? This depends on
@@ -54,24 +48,18 @@ What is the effect of the golden gun damage on win chance? This depends on
  gun does not seem to provide an advantage over a player that shoots 
  immediately upon obtaining a normal gun. So default damage of 8 is fine.
 
-![BetterGoldenGun](https://raw.githubusercontent
-.com/joerivandervelde/kalashnikov/analysis/BetterGoldenGun
-/BetterGoldenGun.png "BetterGoldenGun")
+![BetterGoldenGun](https://raw.githubusercontent.com/joerivandervelde/kalashnikov/analysis/BetterGoldenGun/BetterGoldenGun.png "BetterGoldenGun")
 
 #### Scrap over shelf?
 Is it better to draw a card from scrap instead of an unknown card from 
 another player's shelf? Evidence seems to suggest not. So, if you can, pick up
 that mystery shelf card!
 
-![ScrapOverShelf](https://raw.githubusercontent
-.com/joerivandervelde/kalashnikov/analysis/WinChanceOfRandomAIs
-/ScrapOverShelf.png "ScrapOverShelf")
+![ScrapOverShelf](https://raw.githubusercontent.com/joerivandervelde/kalashnikov/analysis/WinChanceOfRandomAIs/ScrapOverShelf.png "ScrapOverShelf")
 
 #### Duplicates over useless cards?
 Is it better to discard useless cards (i.e. non gun parts) before starting to
  shelf duplicate cards? From the results we may conclude that it does not 
  matter what you do.
 
-![DuplicatesBeforeUseless](https://raw.githubusercontent
-.com/joerivandervelde/kalashnikov/analysis/WinChanceOfRandomAIs
-/DuplicatesBeforeUseless.png "DuplicatesBeforeUseless")
+![DuplicatesBeforeUseless](https://raw.githubusercontent.com/joerivandervelde/kalashnikov/analysis/WinChanceOfRandomAIs/DuplicatesBeforeUseless.png "DuplicatesBeforeUseless")
